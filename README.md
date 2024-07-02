@@ -1,4 +1,4 @@
-![RB logo](RB%20pictures%20and%20visualization/RB%20logo.png)
+![RB logo](pictures%20and%20visualization/RB%20logo.png)
 
 # SQL-Rockbuster-Data-Analysis
 
@@ -27,8 +27,9 @@ For the project analysis, we utilized Rockbuster’s relational database managem
 
 ### 2) Queries 
 
+The following query demonstrates the commands used to identify the most profitable category:
 
-
+<img src="pictures%20and%20visualization/sql%20category.png" alt="sql_category" width="600" height="300">  
 
 
 
