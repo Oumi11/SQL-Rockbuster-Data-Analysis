@@ -34,6 +34,8 @@ The following query demonstrates the commands used to identify the most profitab
 
 
 
+### The queries available on the CTE 
+
 
 
 
