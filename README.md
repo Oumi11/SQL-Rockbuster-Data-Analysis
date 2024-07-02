@@ -10,6 +10,13 @@
 #### This project aims to use query-based analysis (SQL) within Rockbuster's RDBMS to answer key business-related questions, providing valuable insights for various departments involved in this initiative.
 
 
+## Key Questions and Objectives
+
+- Which categories contributed to the most/least revenue gain?
+- What was the average rental duration for all videos? 
+- Which countries are Rockbuster customers based in? 
+- Where are customers with a high lifetime value based? 
+- Do sales figures vary between geographic regions?
 
 
 
