@@ -1,4 +1,5 @@
- ![RB logo](RB%20RB logo.png) 
+![RB logo](RB%20pictures%20and%20visualization/RB%20logo.png)
+
 # SQL-Rockbuster-Data-Analysis
 
 ### This project was completed as part of the curriculum from the CareerFoundry bootcamp.
