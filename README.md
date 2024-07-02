@@ -34,10 +34,25 @@ The following query demonstrates the commands used to identify the most profitab
 
 
 
-### The queries available on the CTE 
+#### For visualization of other queries, please refer to the CTE files that demonstrate commands used to identify the top 5 customers, as well as the top 10 countries and cities.
+
+## Results & findings
+
+- Sports, Sci-Fi, Animation, Drama & Comedy are the category that generated the most revenue. Thriller is the least favorite category
+- On average, people rented our movies for more than 5 days, with a maximum of 7 days.
+- 
+- India, China and the USA are the countries with the most customers, and the ones that generate the highest revenue 
+([Number of customer and Total Sales of Rockbuster's Rental Service Tableau visualization](https://public.tableau.com/app/profile/oumaima.salmi/viz/NumberofcustomerandtotalsalesofRockbustersRentalService_CFAchievement3/Sheet1?publish=yes))
+- High value customers are based mainly in Mexico, Turkey, the USA and India
 
 
+## Conclusion & Next Steps
 
+- Most customers reside in India, China, USA and Japan, with Asia being the primary market
+- Consequently, the majority of the revenue is generated in these countries
+- The categories of movies also significantly influence the revenue potential for our planned online rental service
 
+- Entering the Asian market first would be the most straightforward approach due to the large customer base. With the brand already being relatively well-known, implementing a simple brand strategy would be easier.
+- Proposing a subscription model or different pricing based on the average rental days could bring beneficial results.
+- Lastly, offering discounts to our high-value customers could positively impact the brand's image.
 
-[Number of customer and Total Sales of Rockbuster's Rental Service Tableau visualization](https://public.tableau.com/app/profile/oumaima.salmi/viz/NumberofcustomerandtotalsalesofRockbustersRentalService_CFAchievement3/Sheet1?publish=yes)
