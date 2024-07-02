@@ -18,8 +18,13 @@
 - Where are customers with a high lifetime value based? 
 - Do sales figures vary between geographic regions?
 
+## Data & Main Queries
 
+### 1) Data Understanding
 
+For the project analysis, we utilized Rockbuster’s relational database management system along with PostgreSQL. The dataset includes comprehensive information about Rockbuster’s film inventory, customers, payments, store locations, addresses, staff, and actors. Specifically, it encompasses data on 599 clients from 109 different countries, and a selection of 1,000 films categorized into 20 different genres.
+
+### 2) Queries 
 
 
 
