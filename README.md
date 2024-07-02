@@ -29,7 +29,7 @@ For the project analysis, we utilized Rockbuster’s relational database managem
 
 The following query demonstrates the commands used to identify the most profitable category:
 
-<img src="pictures%20and%20visualization/sql%20category.png" alt="sql_category" width="600" height="300">  
+<img src="pictures%20and%20visualization/sql%20category.png" alt="sql_category" width="600" height="300">  <img src="pictures%20and%20visualization/total_rev_per_cat.png" alt="total_rev_per_cat" width="600" height="300"> 
 
 
 
